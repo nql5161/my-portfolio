@@ -3,8 +3,8 @@ import './AboutMe.css';
 
 export const AboutMe = () => {
     return (
-        <div>
-            <h2 className={"header"}>Hi, my name is Nikolas Lecce</h2>
+        <div className={'header'}>
+            <div>Hi, my name is Nikolas Lecce.</div>
         </div>
     )
 }
